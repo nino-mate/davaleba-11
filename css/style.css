@@ -245,12 +245,10 @@ ul{
 .main-photo{
 	width: 700px;
 	height: auto;
-	margin-left: 35px;
 }
 .section2{
 	margin-top: 60px;
 	max-width: 568px;
-	justify-content: center;
 }
 .form1{
 	margin-top: 57px;
@@ -263,7 +261,6 @@ ul{
 }
 .section3{
 	max-width: 768px;
-	margin-left: 180px;
 	flex-direction: column;
 }
 .section4{
@@ -274,9 +271,6 @@ ul{
 }
 .input2{
 	font-size: 20px;
-}
-.button{
-	margin-left: 160px;
 }
 .section5{
 	max-width: 768px;
@@ -331,9 +325,6 @@ ul{
 }
 .input2{
 	font-size: 20px;
-}
-.button{
-	margin-left: 50px;
 }
 .section5{
 	max-width: 480px;
