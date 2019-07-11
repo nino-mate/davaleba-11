@@ -203,3 +203,81 @@ label{
 .footer-images{
 	margin-right: 70px;
 }
+
+@media screen and (max-width: 1024px){
+	body{
+	padding-top: 30px;
+}
+header{
+	justify-content: space-around;
+}
+.section1{
+	max-width: 1024px;
+}
+.main-photo{
+	width: 900px;
+}
+.section4{
+	max-width: 1024px;
+}
+.section5{
+	max-width: 1024px;
+}
+
+
+@media screen and (max-width: 768px){
+	body{
+	padding-top: 30px;
+}
+header{
+	margin: 0 auto;
+	max-width: 768px;
+}
+ul{
+	margin: 0 auto;
+	width: 500px;
+}
+.section1{
+	margin-top: 47px;
+	max-width: 768px;
+}
+.main-photo{
+	width: 700px;
+	height: auto;
+	margin-left: 35px;
+}
+.section2{
+	margin-top: 60px;
+	max-width: 568px;
+	justify-content: center;
+}
+.form1{
+	margin-top: 57px;
+}
+.input-box{
+	justify-content: center;
+}
+.input1{
+	max-width: 568px;
+}
+.section3{
+	max-width: 768px;
+	margin-left: 180px;
+	flex-direction: column;
+}
+.section4{
+	max-width: 768px;
+}
+.label2{
+	font-size: 30px;
+}
+.input2{
+	font-size: 20px;
+}
+.button{
+	margin-left: 160px;
+}
+.section5{
+	max-width: 768px;
+}
+}
