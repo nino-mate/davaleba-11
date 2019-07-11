@@ -227,7 +227,7 @@ header{
 }
 
 @media screen and (max-width: 768px){
-	body{
+body{
 	padding-top: 30px;
 }
 header{
@@ -280,5 +280,62 @@ ul{
 }
 .section5{
 	max-width: 768px;
+}
+}
+
+
+@media screen and (max-width: 480px){
+body{
+	padding-top: 30px;
+}
+header{
+	margin: 0 auto;
+	max-width: 480px;
+}
+ul{
+	margin: 0 auto;
+	width: 480px;
+}
+.section1{
+	margin-top: 47px;
+	max-width: 480px;
+}
+.main-photo{
+	width: 480px;
+	height: auto;
+}
+.section2{
+	margin-top: 60px;
+	max-width: 480px;
+	justify-content: center;
+}
+.form1{
+	margin-top: 57px;
+}
+.input-box{
+	justify-content: center;
+}
+.input1{
+	max-width: 480px;
+}
+.section3{
+	max-width: 480px;
+	margin-left: 180px;
+	flex-direction: column;
+}
+.section4{
+	max-width: 480px;
+}
+.label2{
+	font-size: 30px;
+}
+.input2{
+	font-size: 20px;
+}
+.button{
+	margin-left: 50px;
+}
+.section5{
+	max-width: 480px;
 }
 }
